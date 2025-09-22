@@ -1,6 +1,6 @@
 il s'agit là d'une calculatrice scientifique disposant d'une interface graphique tkinter
 
-# 🧮 Calculatrice Scientifique FMS
+#calculator_fms
 
 Bienvenue sur **caculator_fms**, une calculatrice scientifique développée en Python avec une interface graphique grâce à **Tkinter**.
 
